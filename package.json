@@ -1,0 +1,27 @@
+{
+  "name": "influx-data-generator",
+  "version": "1.0.0",
+  "description": "Script to generate data",
+  "main": "influxgen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmilkovi/influx-data-generator.git"
+  },
+  "keywords": [
+    "influx",
+    "generator",
+    "data"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmilkovi/influx-data-generator/issues"
+  },
+  "homepage": "https://github.com/hmilkovi/influx-data-generator#readme",
+  "dependencies": {
+    "influx": "^4.0.1"
+  }
+}
